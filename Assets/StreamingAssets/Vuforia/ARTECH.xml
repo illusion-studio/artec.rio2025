@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="5-2l" size="0.210000 0.297048" />
+    <ImageTarget name="5-1l" size="0.210000 0.297048" />
+    <ImageTarget name="4-2l" size="0.210000 0.297048" />
+    <ImageTarget name="4-1l" size="0.210000 0.297048" />
+    <ImageTarget name="3-2l" size="0.210000 0.297048" />
+    <ImageTarget name="3-1l" size="0.210000 0.297048" />
+    <ImageTarget name="2-2l" size="0.210000 0.297048" />
+    <ImageTarget name="2-1l" size="0.210000 0.297048" />
+    <ImageTarget name="1-2l" size="0.210000 0.297048" />
+    <ImageTarget name="1-1l" size="0.210000 0.297048" />
+    <ImageTarget name="5-1" size="0.290000 0.205017" />
+    <ImageTarget name="4-2" size="0.290000 0.205017" />
+    <ImageTarget name="4-1" size="0.290000 0.205017" />
+    <ImageTarget name="3-2" size="0.290000 0.205017" />
+    <ImageTarget name="1-2" size="0.290000 0.205017" />
+    <ImageTarget name="1-1" size="0.290000 0.205017" />
+    <ImageTarget name="2-1" size="0.290000 0.205017" />
+    <ImageTarget name="3-1" size="0.290000 0.205017" />
+    <ImageTarget name="2-2" size="0.290000 0.205017" />
+    <ImageTarget name="5-2" size="0.290000 0.205017" />
+    <ImageTarget name="corearmarkerstransp10" size="0.210000 0.210000" />
+    <ImageTarget name="corearmarkerstransp9" size="0.210000 0.210000" />
+    <ImageTarget name="corearmarkerstransp8" size="0.210000 0.210000" />
+    <ImageTarget name="corearmarkerstransp7" size="0.210000 0.210000" />
+    <ImageTarget name="corearmarkerstransp6" size="0.210000 0.210000" />
+    <ImageTarget name="corearmarkerstransp5" size="0.210000 0.210000" />
+    <ImageTarget name="corearmarkerstransp4" size="0.210000 0.210000" />
+    <ImageTarget name="corearmarkerstransp3" size="0.210000 0.210000" />
+    <ImageTarget name="corearmarkerstransp2" size="0.210000 0.210000" />
+    <ImageTarget name="corearmarkerstransp1" size="0.210000 0.204702" />
+    <ImageTarget name="armarkerstransp12" size="0.210000 0.213314" />
+    <ImageTarget name="armarkerstransp11" size="0.210000 0.214371" />
+    <ImageTarget name="armarkerstransp10" size="0.210000 0.212777" />
+    <ImageTarget name="armarkerstransp9" size="0.210000 0.212690" />
+    <ImageTarget name="armarkerstransp8" size="0.210000 0.214002" />
+    <ImageTarget name="armarkerstransp7" size="0.210000 0.214531" />
+    <ImageTarget name="armarkerstransp6" size="0.210000 0.213397" />
+    <ImageTarget name="armarkerstransp5" size="0.210000 0.212692" />
+    <ImageTarget name="armarkerstransp4" size="0.210000 0.211481" />
+    <ImageTarget name="armarkerstransp3" size="0.210000 0.213519" />
+  </Tracking>
+</QCARConfig>
